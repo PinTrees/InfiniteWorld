@@ -1,0 +1,4 @@
+<data>
+  <info id="1" type="ore" code="ore-1" rare="1" name="철광석" change="강철,녹은 철" made=""/>
+  <info id="11" type="ore" code="ore-11" rare="1" name="강철 덩어리" change="녹은 강철" need="ore-heating?1=ore-1*10+fuel-10*5!5" made="강철검"/>
+</data>

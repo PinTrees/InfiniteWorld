@@ -1,0 +1,4 @@
+<data>
+  <info id="100001" type="fuel" code="fuel-1" name="장작" change="강철,녹은 철" made=""/>
+  <info id="100010" type="fuel" code="fuel-10" name="석탄" change="ore-11?강철 덩어리" made=""/>
+</data>
